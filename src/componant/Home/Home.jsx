@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import {  useNavigate } from 'react-router-dom'
 import heroImg from '../../assets/heroSection.png'
-import bgBox from '../../assets/bg-Box.jpg'
+import bgBox from '../../assets/bg-box.jpg'
 import img1 from '../../assets/img1.jpg'
 import img2 from '../../assets/img2.jpg'
 import img3 from '../../assets/img3.jpg'
@@ -18,7 +18,7 @@ import feadback3 from "../../assets/feedback (3).jpg"
 import { CiCalendarDate, CiClock1, CiHeart, CiPhone, CiPlay1, CiUser } from 'react-icons/ci'
 import { TbClockHour4, TbFileSmile, TbHeartHandshake, TbStarsFilled, TbTrophy } from 'react-icons/tb';
 import { MdArrowBackIos, MdKeyboardArrowDown, MdOutlineHeadsetMic } from 'react-icons/md';
-import { FaLock, FaQuoteRight, FaStar, FaTooth, FaUserMd } from 'react-icons/fa';
+import { FaLock,  FaStar, FaTooth, FaUserMd } from 'react-icons/fa';
 import { BiCalendar, BiCalendarCheck } from 'react-icons/bi'
 import { HiOutlineUsers } from 'react-icons/hi'
 import { LuShieldCheck } from 'react-icons/lu'
