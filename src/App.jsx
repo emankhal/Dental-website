@@ -7,7 +7,7 @@ import Appointment from './componant/Appointment/Appointment'
 import Service from './componant/Service/Service'
 import Team from './componant/Team/Team'
 import Popularqus from './componant/Popularqus/Popularqus'
-import Contact from './componant/contact/Contact'
+import Contact from './componant/Contact/Contact'
 function App() {
 
 const router = createBrowserRouter([
